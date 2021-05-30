@@ -2,7 +2,8 @@
 """
 Created on Mon May 17 21:54:17 2021
 
-@author: andre
+Andrea Toval 
+Joan Jauma
 """
 ### IMPORTACIÓ DE LES EINES 
 import cv2
